@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanrdn&label=Profile%20views&color=0e75b6&style=flat" alt="nathanrdn" /> </p>
 
-- 🔭 I’m currently working for **Renault**
+- 🔭 I’m currently working for **Ampere SAS**
 
 - 📫 How to reach me **nathan.redon3@gmail.com**
 
