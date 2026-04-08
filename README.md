@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working for **Ampere SAS**
 
-- 📫 How to reach me **nathan.redon3@gmail.com**
+- 📫 How to reach me **nathanredon@ik.me**
 
 - 🌱 I’m currently learning **Flutter, Firebase**
 
